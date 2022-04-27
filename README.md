@@ -1,4 +1,6 @@
 # space-invaders
 Basic space invaders game using python
-<img src = "1.png" width = "500" height = "500" >
+<br>
+<img src = "1.png" width = "200" height = "200" >
+<img src = "2.png" width = "200" height = "200" >
 
